@@ -4,9 +4,9 @@
 
 - 🔥 Full Stack Developer with continuous lifelong learning mindset 
 
-- 🔭 I’m currently working at [Conceito Assessoria e Tecnologia](https://github.com/conceitogestaopublica)
+- 🔭 I’m currently working at [Multipedidos](https://www.multipedidos.com.br)
 
-- 💬 Ask me about **Laravel, PHP, JavaScript, HTML, CSS, SQL, VUE**
+- 💬 Ask me about **Laravel, PHP, JavaScript, Mysql, Angular, VueJS**
 
 <br><br>
 
